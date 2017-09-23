@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //booleans for the while loop
+        //Boolean for the while loop
         boolean tester = true;
         String Ans;
 
